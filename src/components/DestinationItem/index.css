@@ -1,0 +1,16 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.pic {
+  height: 125px;
+  width: 200px;
+}
+
+.place {
+  font-family: 'Roboto';
+  color: #0f172a;
+  font-size: 15px;
+}
